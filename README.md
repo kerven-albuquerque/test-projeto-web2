@@ -1,5 +1,9 @@
 # Projeto Final — Web 2
 
+## Integrantes
+- Fulano
+- Cicrano
+
 API em **ExpressJS**.
 
 ## Como rodar
